@@ -1,0 +1,11 @@
+yolo_model:
+
+  config_file:
+    name: artag.cfg
+  weight_file:
+    name: artag.weights
+  threshold:
+    value: 0.1
+  detection_classes:
+    names:
+    - Stop

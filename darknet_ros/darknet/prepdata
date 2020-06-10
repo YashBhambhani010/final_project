@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+ls project/data_folder/trainset/*.jpg > project/data_folder/train.txt
+ls project/data_folder/validset/*.jpg > project/data_folder/valid.txt

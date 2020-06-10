@@ -1,0 +1,6 @@
+classes= 1
+train  = project/data_folder/train.txt
+valid  = project/data_folder/valid.txt
+names = data/artag.names
+backup = ar_backup
+

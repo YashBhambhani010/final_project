@@ -1,0 +1,14 @@
+yolo_model:
+
+  config_file:
+    name: RS2.cfg
+  weight_file:
+    name: RS2.weights
+  threshold:
+    value: 0.1
+  detection_classes:
+    names:
+    - Red Light
+    - Yellow light
+    - Green light
+    - Duck
